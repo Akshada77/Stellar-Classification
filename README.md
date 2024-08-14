@@ -1,6 +1,6 @@
 # Stellar Classification Using Machine Learning
 
-This project involves building and evaluating machine learning classifiers to categorize celestial objects—specifically stars, galaxies, and quasars—using a provided dataset. The models implemented in this project include K-Nearest Neighbors (KNN), Linear Regression, and Decision Tree. After a thorough comparison, the Decision Tree model emerged as the most effective classifier for this task.
+This project involves building and evaluating machine learning classifiers to categorize celestial objects — specifically stars, galaxies, and quasars using a provided dataset. The models implemented in this project include K-Nearest Neighbors (KNN), Linear Regression, and Decision Tree. After a thorough comparison, the Decision Tree model emerged as the most effective classifier for this task.
 
 ## Project Overview
 
@@ -18,7 +18,7 @@ The goal of this project is to create a robust machine learning model capable of
   - Recall
   - F1 Score
 
-###Workflow of the Model:
+### Workflow of the Model:
 1) Introducing Dataset
 2) Importing necessary libraries and modules for the dataset
 3) Exploring the Dataset
